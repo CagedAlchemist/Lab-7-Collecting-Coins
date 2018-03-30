@@ -8,7 +8,7 @@ var GAME_LEVELS = [
    "xxx                  oo     oo     oo              o  o   o o     xxx         xx",
    "xxx                  xx     xx     xx              xx  oo  xx    xx!xx        xx",
    "xxx                                           xx       xx        x!!!x        xx",
-   "xxx                                           xx                 xx!xx        xx",
+   "xxx                         e                 xx                 xx!xx        xx",
    "xxx               xxxxxxxxxxxxxxxxxxxxxxxx    xx                  x!x         xx",
    "xxx           xxxxxxxxxxxxxxxxxxxxxxx         xx                   !          xx",
    "xxx         xxxxx                         o o xx                   !          xx",
